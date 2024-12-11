@@ -4,4 +4,5 @@ let mensaje = arr1.join(", ");
 
 let saludo = "Hola mundo desde NZ";
 let dividido = saludo.split(" ");
+console.log(dividido);
 console.log(dividido.join("-")); //Útil para generar urls
